@@ -30,3 +30,7 @@ The user interface that can be used to draw machine learning models is drawn bel
 This project was developed in my spare time while being employed at Rasa. They have been very supportive of me working on my own projects on the side and I would like to recognise them for being a great employer. 
 
 I also want to acknowledge that I'm building on the shoulders of giants. The popular drawing widget in this library would not have been made possible without the wider bokeh, jupyter and ipywidgets communities.
+
+There have been also been small contributions on Github from Joshua Adelman, Kay Hoogland and Gabriel Luiz Freitas Almeida. 
+
+# References
